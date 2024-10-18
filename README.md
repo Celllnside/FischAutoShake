@@ -22,7 +22,7 @@ This is a AHK script for the roblox game Fisch that automatically clicks the sha
                                                                                                                                            
 #-- Next, you need to take a screenshot. Doing this correctly is extremely important because it will run extremely slow if you do this wrong.
 
-[1] Cast your rod and take a CROPPED screenshot of a letter in the shake button. A simple way to do this is by pressing "Win + Shift + S".
+[1] Cast your rod and take a CROPPED screenshot of a letter in the shake button(H works best). A simple way to do this is by pressing "Win + Shift + S".
                                                                                                                                                                           
 [2] After you successfully take a screenshot, click the popup in the bottom right to "Edit" it and make sure you click Save (I suggest saving it to Downloads or somewhere easy for you to find).
 
