@@ -28,14 +28,6 @@ This is a AHK script for the roblox game Fisch that automatically clicks the sha
 
 [3] Go back to the GUI and click "Select Image" to select the screenshot you took.
 
-[4] Go back to the "Main" tab and click Save Settings. ╱|、    
-                                                      (˚ˎ 。7 
-                                                       |、˜〵   
-                                                       じしˍ,)ノ
-Whenever you launch the fisch script in the future, make sure you click Load Settings.
+[4] Go back to the "Main" tab and click Save Settings.
 
-  ∧,,,∧
- (• ⩊ •)
-|￣U U￣￣￣￣￣￣￣￣￣|
-| enjoy fisching  <3  |
- ￣￣￣￣￣￣￣￣￣￣￣￣                     
+Whenever you launch the fisch script in the future, make sure you click Load Settings.
