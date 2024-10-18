@@ -17,7 +17,7 @@ This is a AHK script for the roblox game Fisch that automatically clicks the sha
 
           B. Change the keybind to your liking (default is Left Control, usually labeled as "Ctrl" on a keyboard)
 
-          C. MAKE SURE TO SET THE KEYBIND(theres a button at the bottom of settings) OR THE AHK WONT WORK.
+          C. MAKE SURE TO SET THE KEYBIND (theres a button at the bottom of settings) OR THE AHK WONT WORK.
 
           D. Change the resolution to your monitor's resolution. You NEED to do this; otherwise, it WILL NOT WORK.
                                                             
